@@ -1,0 +1,36 @@
+.box {
+    background-color: yellow;
+    float: center;
+    margin: 50px;
+    border: 5px solid black;
+    padding: 10px;
+    width: 90%;
+    height: 90%;
+}
+
+#text {
+    background-color:;
+    float: center;
+    margin: 10%;
+    border: 5%;
+    padding: 10%;
+    width: 60%;
+    height: 30%;
+}
+        
+#tab {background-color:;
+    float: center;
+    margin: 35%;
+    border: 10%;
+    padding: 10%;
+    width: 50%;
+    height: 10%;
+    position: initial;
+        }
+
+img {float:center;
+    height: 200%;
+    width: 40%;
+    position: initial;
+    
+}
